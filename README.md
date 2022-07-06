@@ -27,13 +27,12 @@ Users should be able to:
 -   **Bonus**: Use the JSON data file provided to dynamically size the bars on the chart
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![](https://user-images.githubusercontent.com/36387179/177454250-3b916b8d-1844-4aa6-9ba1-2b1b70f05175.png)
 
 ### Links
 
 -   Solution URL: [GitHub](https://github.com/Nickil13/FEM-Expenses-Chart-Component)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [Netlify](https://fem-expenses-chart-component.netlify.app/)
 
 ## My process
 
