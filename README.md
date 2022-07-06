@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Solution URL: [GitHub](https://github.com/Nickil13/FEM-Expenses-Chart-Component)
 -   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -45,9 +45,12 @@ Users should be able to:
 
 ### What I learned
 
+First time doing a Frontend Mentor challenge with TailwindCSS and React!
+
 ### Continued development
+
+Work on improving responsivity with Tailwind CSS, especially with media queries and fonts.
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+-   Frontend Mentor - [@Nickil13](https://www.frontendmentor.io/profile/Nickil13)
