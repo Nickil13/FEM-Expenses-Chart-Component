@@ -4,7 +4,7 @@ import BarGraph from "./components/BarGraph";
 
 function App() {
     return (
-        <div className="flex flex-col items-center justify-center bg-neutral-cream min-h-screen">
+        <main className="flex flex-col items-center justify-center bg-neutral-cream min-h-screen">
             <div className="w-[90%] mx-auto my-4 max-w-[550px]">
                 <div className="flex justify-between bg-primary-soft-red rounded-[10px] p-5 mb-4 2xl:rounded-2xl md:p-8 2xl:mb-7">
                     <div className="text-neutral-white">
@@ -56,7 +56,7 @@ function App() {
                 </a>
                 .
             </div> */}
-        </div>
+        </main>
     );
 }
 
